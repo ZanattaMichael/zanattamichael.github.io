@@ -16,8 +16,7 @@
 title: PowerShell Life. The journey of an Automator.
 name: Michael Zanatta PowerShell Life.
 description: 
-  This is a blog of someone passionate about technology who wants to share some of the things he knows
-  about Application Development, Integration, Cloud, Big Data and Digital Transformation
+  The blog of a Passionate PowerShell Person. To pass on personal lessons learnt to the PowerShell community.
 baseurl: "" # the subpath of your site, e.g. /blog
 github_username:  ZanattaMichael
 
